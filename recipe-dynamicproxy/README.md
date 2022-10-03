@@ -7,10 +7,10 @@ Spring Framework 내 널리 사용되는 도구 중 일부는 개발자가 inter
 
 ## Example Problem
 
-## Solution
-
 간단하게 interface로 선언된 두개의 다른 repository를 사용하는 ListController와 SetController를 Dynamic Proxy를 사용해서
 구현하겠다.
+
+## Solution
 
 ### 1. Controller 역할을 수행할 Dynamic Proxy Object와 FactoryBean 개발
 
