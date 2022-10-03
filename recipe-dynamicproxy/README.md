@@ -2,7 +2,8 @@
 
 ## Motivation
 
-asdlfkjasdf
+Spring Framework 내 널리 사용되는 도구 중 일부는 개발자가 interface만 정의하면 별도의 구현없이 기능을 사용할 수 있도록 제공한다. e.g., repository, feign, mybatis 등
+본 모듈에서는 이러한 도구들이 어떤 방식으로 구현되어있는지 살펴보고자 한다.
 
 ## Example Problem
 
